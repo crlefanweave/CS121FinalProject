@@ -1,0 +1,60 @@
+Room 1
+You are in a dark cave. In the middle, there is a cauldron boiling.@With a clasp of thunder, three witches suddenly appear before you.@The witches speak in unison:@ "Mortal, we have summoned thee, make haste!@ And go forth into the farrow'd waste.@ Find eye of newt, and toe of frog,@ And deliver thus to this Scottish bog.@ Lizard 's leg, and owlet's wing,@ And hair of cat that used to sing.@ These things we need t' brew our charm;@ Bring them forth -and suffer no 'arm.@ Leave us and go!@ 'Tis no more to be said,@ Save if you fail, then thou be stricken, dead."
+You are in a dark cave. In the middle, there is a cauldron boiling.@With a clasp of thunder, three witches suddenly appear before you.@The witches stand before you, glaring; they seem to be expecting@something from you.
+The witches look at your items with suspicion, but decide to go@through with the incantation of the spell:@ "Take lizard's leg and owlet's wing,@ And hair of cat that used to sing.@ In the cauldron they all shall go;@ Stirring briskly, to and fro.@ When the color is of a hog,@ Add eye of newt and toe of frog.@ Bubble all i' the charmed pot;@ Bubble all 'til good and hot.@ Pour the broth into a cup of stone,@ And stir it well with a mummy's bone."@You take the resulting broth offered to you and drink...@As the fog clears, you find yourself at a computer terminal;@your adventure is at an end.
+N3;E6;S8;W5
+empty
+Room 2
+You're transported back in time … you find yourself in Georgia during@the midst of a congressional campaign.@There is a campaign poster of Newt Gingrich, the Speaker of the House@of Representatives, on the wall, with his large eyes looking right at@you.
+You're transported back in time … you find yourself in Georgia during@the midst of a congressional campaign.@There is a defaced poster of Newt Gingrich on the wall.
+You're transported back in time … you find yourself in Georgia during@the midst of a congressional campaign.@There is a defaced poster of Newt Gingrich on the wall.
+E3;S2;W2
+eye of newt
+Room 3
+You've made it to a room that is so clean, there are no colors@anywhere you look. It makes it difficult to tell where things are@so you should be careful on your way through@here.
+You've made it to a room that is so clean, there are no colors@anywhere you look. It makes it difficult to tell where things are@so you should be careful on your way through@here.
+You've made it to a room that is so clean, there are no colors@anywhere you look. It makes it difficult to tell where things are@so you should be careful on your way through@here.
+E4;S1;W2
+empty
+Room 4
+This otherwise nondescript room has a poster with an incredibly@muscular man captioned "The Lizard" on it. Is this one of those@professional wrestlers?
+"The Lizard" is missing a leg. Also, there's some writing on the wall where@the poster is missing that reads,@"Made you look!".
+"The Lizard" is missing a leg. Also, there's some writing on the wall where@the poster is missing that reads,@"Made you look!".
+E6;S6
+lizard's leg
+Room 5
+You've made it to a winding hallway that seems to go on forever.@It's a good thing that you innately know which way north is, or you'd@be in trouble trying to traverse this hallway.
+You've made it to a winding hallway that seems to go on forever.@It's a good thing that you innately know which way north is, or you'd@be in trouble trying to traverse this hallway.
+You've made it to a winding hallway that seems to go on forever.@It's a good thing that you innately know which way north is, or you'd@be in trouble trying to traverse this hallway.
+E1;W7
+empty
+Room 6
+As you emerge into a brightly lit area, you discover that you@have traveled to Ancient Rome and are now standing at the center of the@coliseum, though there are no spectators or gladiators where you can@see. That makes the loud cheering kind of creepy, huh?
+As you emerge into a brightly lit area, you discover that you@have traveled to Ancient Rome and are now standing at the center of the@coliseum, though there are no spectators or gladiators where you can@see. That makes the loud cheering kind of creepy, huh?
+As you emerge into a brightly lit area, you discover that you@have traveled to Ancient Rome and are now standing at the center of the@coliseum, though there are no spectators or gladiators where you can@see. That makes the loud cheering kind of creepy, huh?
+N4;E9;S8;W1
+empty
+Room 7
+You find yourself walking into a scene where the cast of Monty@Python's Flying Circus is performing the "Crunchy Frog" sketch. You@see the confectioner as he replies, "If we took the bones out it@wouldn't be crunchy now, would it?" You see a box of "Crunchy Frog"@chocolates, the contents of which contains a dozen nicely cleaned@whole frogs that have been carefully hand-dipped in the finest@chocolate.
+You find yourself walking into a scene where the cast of Monty@Python's Flying Circus is performing the "Crunchy Frog" sketch. You@see the confectioner as he replies, "If we took the bones out it@wouldn't be crunchy now, would it?" You see a box of "Crunchy Frog"@chocolates, the contents of which contains a dozen nicely cleaned@whole frogs that have been carefully hand-dipped in the finest@chocolate.
+You find yourself walking into a scene where the cast of Monty@Python's Flying Circus is performing the "Crunchy Frog" sketch. You@see the confectioner as he replies, "If we took the bones out it@wouldn't be crunchy now, would it?" You see a box of "Crunchy Frog"@chocolates, the contents of which contains a dozen nicely cleaned@whole frogs that have been carefully hand-dipped in the finest@chocolate.
+N2
+toe of frog
+Room 8
+For some reason, you're suddenly standing in a pet shop. You@can't but notice that someone left a stuffed owl toy on a shelf@in such a way that it's staring directly at you. There are various tanks@around which house various animals, including snakes and rabbits.
+For some reason, you're suddenly standing in a pet shop. You@can't but notice that someone left a stuffed owl toy on a shelf@but pulled off one of its wings. There are various tanks@around which house various animals, including snakes and rabbits.@Stuffing has been left all over the place.
+For some reason, you're suddenly standing in a pet shop. You@can't but notice that someone left a stuffed owl toy on a shelf@but pulled off one of its wings. There are various tanks@around which house various animals, including snakes and rabbits.@Stuffing has been left all over the place.
+E6
+owlet's wing
+Room 9
+As you step through the time portal, your head begins to spin you're@disoriented and then awaken. You find yourself at the outside door of@a dormitory kitchen. Listening, you hear the Chef yelling, "Stop!@Stop!" while several cats inside are singing a serenade of the "Meow@Mix" commercial theme. Suddenly, the repeated thump of a cleaver puts@an abrupt end to the music.
+As you step through the time portal, your head begins to spin you're@disoriented and then awaken. You find yourself at the outside door of@a dormitory kitchen. Listening, you hear the Chef yelling, "Stop!@Stop!" while several cats inside are singing a serenade of the "Meow@Mix" commercial theme. Suddenly, the repeated thump of a cleaver puts@an abrupt end to the music.
+As you step through the time portal, your head begins to spin you're@disoriented and then awaken. You find yourself at the outside door of@a dormitory kitchen. Listening, you hear the Chef yelling, "Stop!@Stop!" while several cats inside are singing a serenade of the "Meow@Mix" commercial theme. Suddenly, the repeated thump of a cleaver puts@an abrupt end to the music.
+N6;W10
+empty
+Room 10
+You are in the kitchen. Looking out into the cafeteria, you see@students reaching for Pepto-Bismol while trying to stomach the latest@version of the Chef's Surprise. You see the Chef as he finishes@dumping fresh meat into his 50-quart stewing pot. There are clumps of@cat hair on the butcher's block. You hear the Chef muttering to@himself, "Prepared properly, cat tastes much like chicken..."
+You are in the kitchen. Looking out into the cafeteria, you see@students reaching for Pepto-Bismol while trying to stomach the latest@version of the Chef's Surprise. You see the Chef as he finishes@dumping fresh meat into his 50-quart stewing pot. There are clumps of@cat hair on the butcher's block. You hear the Chef muttering to@himself, "Prepared properly, cat tastes much like chicken..."
+You are in the kitchen. Looking out into the cafeteria, you see@students reaching for Pepto-Bismol while trying to stomach the latest@version of the Chef's Surprise. You see the Chef as he finishes@dumping fresh meat into his 50-quart stewing pot. There are clumps of@cat hair on the butcher's block. You hear the Chef muttering to@himself, "Prepared properly, cat tastes much like chicken..."
+E9
+cat hair
